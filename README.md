@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-My live site: 
-
+My live site: [
+](https://roseandlily33.github.io/QR-Code-Component/)
 ## My process
 With the project I built it with HTML and CSS.
 I started with making the background the blue grey colour, then moved onto the main component that's white (centered it, border radius, height, width etc.), added the picture made it rounder edges with border radius, then I made another div in the HTML for the h1 and p, styled those. Then took a look at how it looked on different screens with the Inspect and found it only needed it a @375px because it's such a simple design.
